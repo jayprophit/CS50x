@@ -1,75 +1,99 @@
-# CS50x 2024
+Here’s a structured, formatted, and workflow-oriented version of the content rewritten for a project folder, portfolio, or coursework submission. The format is aligned with a professional GitHub-style documentation approach.
 
-- Scratch
-- c
-- Arrays
-- Algorithms
-_ Memory
-- Data
-- Python
-- Artificial Intyelligence
-- Sql
-- Html, CSS, JavaScript
-- Flask
-- CyberSecurity
+A rewritten and formatted version, designed for a coursework-oriented GitHub book:
 
+---
 
-## Lecture 0 - Scratch
+# CS50x 2024  
 
-###
+## CS50x: 2024  
+**Course Type**: Full University Course  
 
+---
 
-## Lecture 1 - c
+# **CS50x - 2024**
 
-###
+## **Course Overview**
+This document serves as a guide to fundamental concepts in programming, based on the CS50x University course. The course covers the following topics:
 
+| **Topic**                  | **Description**                                                                                  |
+|----------------------------|--------------------------------------------------------------------------------------------------|
+| **Scratch**              ||
+| **C**              ||
+| **Arrays**           ||
+| **Algorithms**                  ||
+| **Memory**             ||
+| **Data**              ||
+| **Python**           ||
+| **Artificial Intelligence** ||
+| **SQL**    ||
+| **HTML, CSS, JavaScript** ||
+| **Flask** ||
+| **CyberSecurity** ||
 
-## Lecture 2 - Arrays
+---
 
-###
+## **Key Resources**
+- **Documentation:** [](https://)  
+- **CS50 Python Course on YouTube:** [CS50x 2024 Course](https://www.youtube.com/  
+- **Online Course:** [CS50x 2024 on edX]()
 
-
-## Lecture 3 - Algorithms
-
-
-###
-
-
-## Lecture 4 - Memory
-
-###
-
-
-## Lecture 5 - Data
+## --Lecture 0 --: Scratch
 
 ###
 
 
-## Lecture 6 - Python
+## --Lecture 1 --: c
 
 ###
 
 
-### Lecture 7 - Artificial Intyelligence
+## --Lecture 2 --: Arrays
 
 ###
 
 
-## Lecture 8 - Sql
+## --Lecture 3 --: Algorithms
+
 
 ###
 
 
-## Lecture 9 - Html, CSS, JavaScript
+## --Lecture 4 --: Memory
 
 ###
 
 
-## Lecture 10 - Flask
+## --Lecture 5 --: Data
 
 ###
 
 
-## Lecture 11 - CyberSecurity
+## --Lecture 6 --: Python
+
+###
+
+
+### --Lecture 7 --: Artificial Intyelligence
+
+###
+
+
+## --Lecture 8 --: Sql
+
+###
+
+
+## --Lecture 9 --: Html, CSS, JavaScript
+
+###
+
+
+## --Lecture 10 --: Flask
+
+###
+
+
+## --Lecture 11 --: CyberSecurity
 
 ###
