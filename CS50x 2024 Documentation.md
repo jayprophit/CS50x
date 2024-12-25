@@ -74,7 +74,7 @@ This document serves as a guide to fundamental concepts in programming, based on
 ###
 
 
-### --Lecture 7 --: Artificial Intyelligence
+## --Lecture 7 --: Artificial Intyelligence
 
 ###
 
