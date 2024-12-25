@@ -1,5 +1,4 @@
-# CS50x-2024
-CS50x 2024
+# CS50x 2024
 
 - Scratch
 - c
@@ -13,3 +12,8 @@ _ Memory
 - Html, CSS, JavaScript
 - Flask
 - CyberSecurity
+
+
+## Lecture 0 - Scratch
+
+### 
