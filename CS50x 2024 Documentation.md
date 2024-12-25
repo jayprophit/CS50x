@@ -35,12 +35,31 @@ This document serves as a guide to fundamental concepts in programming, based on
 
 ## **Key Resources**
 - **Documentation:** [](https://)  
-- **CS50 Python Course on YouTube:** [CS50x 2024 Course](https://www.youtube.com/  
+- **CS50x 2024 Course on YouTube:** [CS50x 2024 Course]()  
 - **Online Course:** [CS50x 2024 on edX]()
 
 ## --Lecture 0 --: Scratch
 
-###
+### binary
+computers speak in 0's and 1's
+
+### unary
+counting on your fingers, meaning each finger/ tendem is a unit
+
+### base-1
+if the fingers there or its not
+
+### base-2 Binary Digit
+just needs 2 digits,  this can be called or known as 1 & 2, A & B, Black & white.  this is defined as 2 words to describe two pieces of information.  in onputers its known as Binary, 0 and 1, off and on
+
+### bit
+a single digit is a 0 or 1
+
+### transistors
+are like a switch or like a light bulb storing electricity, on or off
+
+- if there is no electricity then its OFF and is also represented by the digit 0
+- if there is a flow of current electricity then it is ON and this is also represented by a 1 meaining there is a flow or current available or ready to use
 
 
 ## --Lecture 1 --: c
