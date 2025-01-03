@@ -116,6 +116,56 @@ digits to the left have more weight then the digits to the right.  meaning the l
 
 $10^{2}$ $10^{1}$ $10^{0}$
 
+$x^{n}$  this means x to the power of
+
+in binary just using 3 digits
+
+001 = 1
+010 = 2
+011 = 3
+100 = 4
+101 = 5
+110 = 6
+111 = 7
+
+in coimputers to get a higher then 7 we need another digit and continue the pattern to get higher and so on.
+
+1000 = 8
+
+### byte
+in a byte there are 8 bits, which is to the power of 2
+
+128, 64, 32, 16, 8, 4, 2, 1
+ 0    0   0   0  0  0  0  0
+
+ which is seen as:-
+
+ 00000000
+
+ 11111111
+
+is actually 255 bits but if you add the o then it equals 256 total possibilities
+
+there is acutally turnary computers that use 3 values that use 0, 1 and 2, which is somewhere between binary and decimal.  which a simple on and off
+
+### letters
+capital letter A = 01000001, which is 65 meaning 64 + 1
+lowercase a = 01100001, which is 97
+
+|**Letter**|**ASCII**|**Binary**|**Letter**|**ASCII**|**Binary**|
+|----------------------------|--------------------------------------------------------------------------------------------------|
+|**a**|**97**|**01100001**|**A**|**65**|**01000001**|
+|**b**||||||
+|**c**||||||
+|**d**||||||
+|**e**||||||
+|**f**||||||
+|**g**||||||
+|**h**||||||
+|**i**||||||
+|**j**||||||
+|**k**||||||
+|**l**||||||
 
 ## --Lecture 1 --: c
 
