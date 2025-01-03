@@ -41,7 +41,14 @@ This document serves as a guide to fundamental concepts in programming, based on
 
 - **CS50x 2024 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&si=Ym_8loqix5-P03fy)  
 
+## online course
 - **Online Course:** [CS50x on edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+
+- **cs50x course* *[cs50x on harvard extension school](https://cs50.harvard.edu/extension)
+
+- **cs50x course** [cs50x harvard summer school](https://cs50.harvard.edu/summer)
+
+- **cs50x course** [cs50x opencourseware](https://cs50.harvard.edu/x)
 
 ## --Lecture 0 --: Scratch
 
