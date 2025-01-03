@@ -211,6 +211,9 @@ American Standard Code for Information Interchange
 | **/**         | 047       | 0010 1111       | **\\**        | 092       | 0101 1100       |
 | **?**         | 063       | 0011 1111       | **space**     | 032       | 0010 0000       |
 
+**please read the ASCII md file for the complete 0-255 directory**
+
+
 
 
 ---
