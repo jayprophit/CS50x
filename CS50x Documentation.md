@@ -114,7 +114,7 @@ are single digits in a pattern
 
 digits to the left have more weight then the digits to the right.  meaning the left digits are higher and have more value then the left digits
 
-$10^{2}$
+$10^{2}$ $10^{1}$ $10^{0}$
 
 
 ## --Lecture 1 --: c
