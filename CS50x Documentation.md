@@ -65,6 +65,11 @@ This document serves as a guide to fundamental concepts in programming, based on
 
 ## --Lecture 0 --: Scratch
 
+### solving problems
+        ---------
+input   |problem|   output = result
+        ---------
+
 ### binary
 computers speak in 0's and 1's
 
@@ -72,7 +77,7 @@ computers speak in 0's and 1's
 counting on your fingers, meaning each finger/ tendem is a unit
 
 ### base-1
-if the fingers there or its not
+if the fingers is there or its not.  on a single hand if used in the correct way can give 31 outputs
 
 ### base-2 Binary Digit
 just needs 2 digits,  this can be called or known as:-
@@ -85,13 +90,31 @@ just needs 2 digits,  this can be called or known as:-
 this is defined as 2 words to describe two pieces of information.  in onputers its known as Binary, 0 and 1, off and on
 
 ### bit
-a single digit is a 0 or 1
+a single binary digit which is a 0 or 1, known as a 2 bit system, this is contrast to a system which is known as a decimal system, Dec implying 10,  in the real world,  dialy use of 0-9 which is 10 possibilities
 
 ### transistors
 are like a switch or like a light bulb storing electricity, switched/ turned on or off
 
 - if there is no current/ electricity then its OFF and is also represented by the digit 0
-- if there is a flow of current/ electricity then it is ON and this is also represented by a 1 meaining there is a flow or current available or ready to use, or its active
+- if there is a flow of current/ electricity then it is ON and this is also represented by a 1 meaning there is a flow or current available or ready to use, or its active
+
+### base 10
+0-9 theres is 10 units.
+
+e.g.
+0, 1, 2, 3, 4, 5, 6, 7, 8, 9
+
+### decimal
+are single digits in a pattern
+123
+
+3 is a single unit - 1's column
+2 is a tenth unit - 10's column
+1 is a hundredth unit - 100's column
+
+digits to the left have more weight then the digits to the right.  meaning the left digits are higher and have more value then the left digits
+
+$10^{2}$
 
 
 ## --Lecture 1 --: c
