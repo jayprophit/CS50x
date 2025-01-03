@@ -1,83 +1,5 @@
 Here is the complete ASCII table from **0–255** in ascending order, divided into **letters**, **numbers**, and **symbols** for easy reference and upload.
 
----
-
-### **ASCII Letters**
-
-| **Dec** | **Hex** | **Binary**   | **Char** | **Description**              |
-|---------|---------|--------------|----------|------------------------------|
-| 65      | 41      | 01000001     | A        | Latin Capital Letter A       |
-| 66      | 42      | 01000010     | B        | Latin Capital Letter B       |
-| 67      | 43      | 01000011     | C        | Latin Capital Letter C       |
-| 68      | 44      | 01000100     | D        | Latin Capital Letter D       |
-| 69      | 45      | 01000101     | E        | Latin Capital Letter E       |
-| 70      | 46      | 01000110     | F        | Latin Capital Letter F       |
-| 71      | 47      | 01000111     | G        | Latin Capital Letter G       |
-| 72      | 48      | 01001000     | H        | Latin Capital Letter H       |
-| 73      | 49      | 01001001     | I        | Latin Capital Letter I       |
-| 74      | 4A      | 01001010     | J        | Latin Capital Letter J       |
-| 75      | 4B      | 01001011     | K        | Latin Capital Letter K       |
-| 76      | 4C      | 01001100     | L        | Latin Capital Letter L       |
-| 77      | 4D      | 01001101     | M        | Latin Capital Letter M       |
-| 78      | 4E      | 01001110     | N        | Latin Capital Letter N       |
-| 79      | 4F      | 01001111     | O        | Latin Capital Letter O       |
-| 80      | 50      | 01010000     | P        | Latin Capital Letter P       |
-| 81      | 51      | 01010001     | Q        | Latin Capital Letter Q       |
-| 82      | 52      | 01010010     | R        | Latin Capital Letter R       |
-| 83      | 53      | 01010011     | S        | Latin Capital Letter S       |
-| 84      | 54      | 01010100     | T        | Latin Capital Letter T       |
-| 85      | 55      | 01010101     | U        | Latin Capital Letter U       |
-| 86      | 56      | 01010110     | V        | Latin Capital Letter V       |
-| 87      | 57      | 01010111     | W        | Latin Capital Letter W       |
-| 88      | 58      | 01011000     | X        | Latin Capital Letter X       |
-| 89      | 59      | 01011001     | Y        | Latin Capital Letter Y       |
-| 90      | 5A      | 01011010     | Z        | Latin Capital Letter Z       |
-| 97      | 61      | 01100001     | a        | Latin Small Letter a         |
-| 98      | 62      | 01100010     | b        | Latin Small Letter b         |
-| 99      | 63      | 01100011     | c        | Latin Small Letter c         |
-| 100     | 64      | 01100100     | d        | Latin Small Letter d         |
-| 101     | 65      | 01100101     | e        | Latin Small Letter e         |
-| 102     | 66      | 01100110     | f        | Latin Small Letter f         |
-| 103     | 67      | 01100111     | g        | Latin Small Letter g         |
-| 104     | 68      | 01101000     | h        | Latin Small Letter h         |
-| 105     | 69      | 01101001     | i        | Latin Small Letter i         |
-| 106     | 6A      | 01101010     | j        | Latin Small Letter j         |
-| 107     | 6B      | 01101011     | k        | Latin Small Letter k         |
-| 108     | 6C      | 01101100     | l        | Latin Small Letter l         |
-| 109     | 6D      | 01101101     | m        | Latin Small Letter m         |
-| 110     | 6E      | 01101110     | n        | Latin Small Letter n         |
-| 111     | 6F      | 01101111     | o        | Latin Small Letter o         |
-| 112     | 70      | 01110000     | p        | Latin Small Letter p         |
-| 113     | 71      | 01110001     | q        | Latin Small Letter q         |
-| 114     | 72      | 01110010     | r        | Latin Small Letter r         |
-| 115     | 73      | 01110011     | s        | Latin Small Letter s         |
-| 116     | 74      | 01110100     | t        | Latin Small Letter t         |
-| 117     | 75      | 01110101     | u        | Latin Small Letter u         |
-| 118     | 76      | 01110110     | v        | Latin Small Letter v         |
-| 119     | 77      | 01110111     | w        | Latin Small Letter w         |
-| 120     | 78      | 01111000     | x        | Latin Small Letter x         |
-| 121     | 79      | 01111001     | y        | Latin Small Letter y         |
-| 122     | 7A      | 01111010     | z        | Latin Small Letter z         |
-
----
-
-### **ASCII Numbers**
-
-| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
-|---------|---------|--------------|----------|--------------------------|
-| 48      | 30      | 00110000     | 0        | Digit Zero               |
-| 49      | 31      | 00110001     | 1        | Digit One                |
-| 50      | 32      | 00110010     | 2        | Digit Two                |
-| 51      | 33      | 00110011     | 3        | Digit Three              |
-| 52      | 34      | 00110100     | 4        | Digit Four               |
-| 53      | 35      | 00110101     | 5        | Digit Five               |
-| 54      | 36      | 00110110     | 6        | Digit Six                |
-| 55      | 37      | 00110111     | 7        | Digit Seven              |
-| 56      | 38      | 00111000     | 8        | Digit Eight              |
-| 57      | 39      | 00111001     | 9        | Digit Nine               |
-
----
-
 ### **ASCII Symbols**
 
 | **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
@@ -130,6 +52,23 @@ Here is the complete ASCII table from **0–255** in ascending order, divided in
 | 45      | 2D      | 00101101     | -        | Minus Sign              |
 | 46      | 2E      | 00101110     | .        | Period                  |
 | 47      | 2F      | 00101111     | /        | Forward Slash           |
+
+---
+
+### **ASCII Numbers**
+
+| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
+|---------|---------|--------------|----------|--------------------------
+| 48      | 30      | 00110000     | 0        | Digit Zero               |
+| 49      | 31      | 00110001     | 1        | Digit One                |
+| 50      | 32      | 00110010     | 2        | Digit Two                |
+| 51      | 33      | 00110011     | 3        | Digit Three              |
+| 52      | 34      | 00110100     | 4        | Digit Four               |
+| 53      | 35      | 00110101     | 5        | Digit Five               |
+| 54      | 36      | 00110110     | 6        | Digit Six                |
+| 55      | 37      | 00110111     | 7        | Digit Seven              |
+| 56      | 38      | 00111000     | 8        | Digit Eight              |
+| 57      | 39      | 00111001     | 9        | Digit Nine               |
 | 58      | 3A      | 00111010     | :        | Colon                   |
 | 59      | 3B      | 00111011     | ;        | Semicolon               |
 | 60      | 3C      | 00111100     | <        | Less-Than Sign          |
@@ -137,23 +76,97 @@ Here is the complete ASCII table from **0–255** in ascending order, divided in
 | 62      | 3E      | 00111110     | >        | Greater-Than Sign       |
 | 63      | 3F      | 00111111     | ?        | Question Mark           |
 | 64      | 40      | 01000000     | @        | At Sign                 |
+
+---
+
+### **ASCII Capital Letters**
+
+| **Dec** | **Hex** | **Binary**   | **Char** | **Description**              |
+|---------|---------|--------------|----------|------------------------------|
+| 65      | 41      | 01000001     | A        | Latin Capital Letter A       |
+| 66      | 42      | 01000010     | B        | Latin Capital Letter B       |
+| 67      | 43      | 01000011     | C        | Latin Capital Letter C       |
+| 68      | 44      | 01000100     | D        | Latin Capital Letter D       |
+| 69      | 45      | 01000101     | E        | Latin Capital Letter E       |
+| 70      | 46      | 01000110     | F        | Latin Capital Letter F       |
+| 71      | 47      | 01000111     | G        | Latin Capital Letter G       |
+| 72      | 48      | 01001000     | H        | Latin Capital Letter H       |
+| 73      | 49      | 01001001     | I        | Latin Capital Letter I       |
+| 74      | 4A      | 01001010     | J        | Latin Capital Letter J       |
+| 75      | 4B      | 01001011     | K        | Latin Capital Letter K       |
+| 76      | 4C      | 01001100     | L        | Latin Capital Letter L       |
+| 77      | 4D      | 01001101     | M        | Latin Capital Letter M       |
+| 78      | 4E      | 01001110     | N        | Latin Capital Letter N       |
+| 79      | 4F      | 01001111     | O        | Latin Capital Letter O       |
+| 80      | 50      | 01010000     | P        | Latin Capital Letter P       |
+| 81      | 51      | 01010001     | Q        | Latin Capital Letter Q       |
+| 82      | 52      | 01010010     | R        | Latin Capital Letter R       |
+| 83      | 53      | 01010011     | S        | Latin Capital Letter S       |
+| 84      | 54      | 01010100     | T        | Latin Capital Letter T       |
+| 85      | 55      | 01010101     | U        | Latin Capital Letter U       |
+| 86      | 56      | 01010110     | V        | Latin Capital Letter V       |
+| 87      | 57      | 01010111     | W        | Latin Capital Letter W       |
+| 88      | 58      | 01011000     | X        | Latin Capital Letter X       |
+| 89      | 59      | 01011001     | Y        | Latin Capital Letter Y       |
+| 90      | 5A      | 01011010     | Z        | Latin Capital Letter Z       |
+
+---
+
+### **ASCII Symbols**
+
+| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
+|---------|---------|--------------|----------|--------------------------|
 | 91      | 5B      | 01011011     | [        | Left Square Bracket     |
 | 92      | 5C      | 01011100     | \        | Backslash               |
 | 93      | 5D      | 01011101     | ]        | Right Square Bracket    |
 | 94      | 5E      | 01011110     | ^        | Caret                   |
 | 95      | 5F      | 01011111     | _        | Underscore              |
 | 96      | 60      | 01100000     | `        | Grave Accent            |
+
+---
+
+### **ASCII Lowercase Letters**
+
+| **Dec** | **Hex** | **Binary**   | **Char** | **Description**              |
+|---------|---------|--------------|----------|------------------------------|
+| 97      | 61      | 01100001     | a        | Latin Small Letter a         |
+| 98      | 62      | 01100010     | b        | Latin Small Letter b         |
+| 99      | 63      | 01100011     | c        | Latin Small Letter c         |
+| 100     | 64      | 01100100     | d        | Latin Small Letter d         |
+| 101     | 65      | 01100101     | e        | Latin Small Letter e         |
+| 102     | 66      | 01100110     | f        | Latin Small Letter f         |
+| 103     | 67      | 01100111     | g        | Latin Small Letter g         |
+| 104     | 68      | 01101000     | h        | Latin Small Letter h         |
+| 105     | 69      | 01101001     | i        | Latin Small Letter i         |
+| 106     | 6A      | 01101010     | j        | Latin Small Letter j         |
+| 107     | 6B      | 01101011     | k        | Latin Small Letter k         |
+| 108     | 6C      | 01101100     | l        | Latin Small Letter l         |
+| 109     | 6D      | 01101101     | m        | Latin Small Letter m         |
+| 110     | 6E      | 01101110     | n        | Latin Small Letter n         |
+| 111     | 6F      | 01101111     | o        | Latin Small Letter o         |
+| 112     | 70      | 01110000     | p        | Latin Small Letter p         |
+| 113     | 71      | 01110001     | q        | Latin Small Letter q         |
+| 114     | 72      | 01110010     | r        | Latin Small Letter r         |
+| 115     | 73      | 01110011     | s        | Latin Small Letter s         |
+| 116     | 74      | 01110100     | t        | Latin Small Letter t         |
+| 117     | 75      | 01110101     | u        | Latin Small Letter u         |
+| 118     | 76      | 01110110     | v        | Latin Small Letter v         |
+| 119     | 77      | 01110111     | w        | Latin Small Letter w         |
+| 120     | 78      | 01111000     | x        | Latin Small Letter x         |
+| 121     | 79      | 01111001     | y        | Latin Small Letter y         |
+| 122     | 7A      | 01111010     | z        | Latin Small Letter z         |
+
+---
+
+### **ASCII Symbols**
+
+| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
+|---------|---------|--------------|----------|--------------------------|
 | 123     | 7B      | 01111011     | {        | Left Curly Brace        |
 | 124     | 7C      | 01111100     | |        | Vertical Bar            |
 | 125     | 7D      | 01111101     | }        | Right Curly Brace       |
 | 126     | 7E      | 01111110     | ~        | Tilde                   |
-
----
-
-### **Extended ASCII Symbols**
-
-| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
-|---------|---------|--------------|----------|--------------------------|
+| 127     | 7F      | 1111111      | ␡       | Delete (DEL)            |
 | 128     | 80      | 10000000     | €        | Euro Sign               |
 | 129     | 81      | 10000001     |          | Undefined               |
 | 130     | 82      | 10000010     | ‚        | Single Low-9 Quotation  |
