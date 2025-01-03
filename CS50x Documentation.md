@@ -152,6 +152,9 @@ there is acutally turnary computers that use 3 values that use 0, 1 and 2, which
 capital letter A = 01000001, which is 65 meaning 64 + 1
 lowercase a = 01100001, which is 97
 
+### ASCII
+American Standard Code for Information Interchange
+
 ### ASCII Table with Binary Values for Letters, Numbers, and Symbols
 
 | **Character** | **ASCII** | **Binary**      | **Character** | **ASCII** | **Binary**      |
@@ -207,6 +210,8 @@ lowercase a = 01100001, which is 97
 | **<**         | 060       | 0011 1100       | **>**         | 062       | 0011 1110       |
 | **/**         | 047       | 0010 1111       | **\\**        | 092       | 0101 1100       |
 | **?**         | 063       | 0011 1111       | **space**     | 032       | 0010 0000       |
+
+
 
 ---
 
