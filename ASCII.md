@@ -150,7 +150,7 @@ Here is the complete ASCII table from **0–255** in ascending order, divided in
 
 ---
 
-### **Extended ASCII Symbols (128–255)**
+### **Extended ASCII Symbols**
 
 | **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
 |---------|---------|--------------|----------|--------------------------|
