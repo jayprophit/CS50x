@@ -183,7 +183,6 @@ lowercase a = 01100001, which is 97
 | **y**         | 121       | 0111 1001       | **Y**         | 089       | 0101 1001       |
 | **z**         | 122       | 0111 1010       | **Z**         | 090       | 0101 1010       |
 
----
 
 ### Numbers and Special Characters
 
