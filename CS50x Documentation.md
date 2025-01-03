@@ -18,20 +18,20 @@ A rewritten and formatted version, designed for a coursework-oriented GitHub boo
 ## **Course Overview**
 This document serves as a guide to fundamental concepts in programming, based on the CS50x University course. The course covers the following topics:
 
-| **Topic**                  | **Description**                                                                                  |
+| **Topic**| **Description**|
 |----------------------------|--------------------------------------------------------------------------------------------------|
-| **Scratch**              ||
-| **C**              ||
-| **Arrays**           ||
-| **Algorithms**                  ||
-| **Memory**             ||
-| **Data**              ||
-| **Python**           ||
-| **Artificial Intelligence** ||
-| **SQL**    ||
-| **HTML, CSS, JavaScript** ||
-| **Flask** ||
-| **CyberSecurity** ||
+| **Scratch**||
+| **C**||
+| **Arrays**||
+| **Algorithms**||
+| **Memory**||
+| **Data**||
+| **Python**||
+| **Artificial Intelligence**||
+| **SQL**||
+| **HTML, CSS, JavaScript**||
+| **Flask**||
+| **CyberSecurity**||
 
 ---
 
