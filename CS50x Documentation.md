@@ -13,6 +13,8 @@ A rewritten and formatted version, designed for a coursework-oriented GitHub boo
 
 # **CS50x**
 
+
+
 ## **Course Overview**
 This document serves as a guide to fundamental concepts in programming, based on the CS50x University course. The course covers the following topics:
 
@@ -36,10 +38,17 @@ This document serves as a guide to fundamental concepts in programming, based on
 ## **Key Resources**
 - **Documentation:** [](https://)
 
+---
+
+
+
 ## youtube video links
 - **CS50x 2025 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&si=yxVeX8c6N51aPj3i)
 
 - **CS50x 2024 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&si=Ym_8loqix5-P03fy)  
+
+---
+
 
 ## online course
 - **Online Course:** [CS50x on edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
@@ -49,6 +58,8 @@ This document serves as a guide to fundamental concepts in programming, based on
 - **cs50x course** [cs50x harvard summer school](https://cs50.harvard.edu/summer)
 
 - **cs50x course** [cs50x opencourseware](https://cs50.harvard.edu/x)
+
+---
 
 
 
@@ -88,9 +99,16 @@ are like a switch or like a light bulb storing electricity, switched/ turned on 
 ###
 
 
+---
+
+
+
 ## --Lecture 2 --: Arrays
 
 ###
+
+---
+
 
 
 ## --Lecture 3 --: Algorithms
@@ -99,39 +117,64 @@ are like a switch or like a light bulb storing electricity, switched/ turned on 
 ###
 
 
+---
+
+
+
 ## --Lecture 4 --: Memory
 
 ###
+
+---
+
 
 
 ## --Lecture 5 --: Data
 
 ###
 
+---
+
+
 
 ## --Lecture 6 --: Python
 
 ###
+
+---
+
 
 
 ## --Lecture 7 --: Artificial Intyelligence
 
 ###
 
+---
+
+
 
 ## --Lecture 8 --: Sql
 
 ###
+
+---
+
 
 
 ## --Lecture 9 --: Html, CSS, JavaScript
 
 ###
 
+---
+
+
 
 ## --Lecture 10 --: Flask
 
 ###
+
+---
+
 
 
 ## --Lecture 11 --: CyberSecurity
