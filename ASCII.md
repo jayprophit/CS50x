@@ -130,13 +130,6 @@ Here is the complete ASCII table from **0–255** in ascending order, divided in
 | 45      | 2D      | 00101101     | -        | Minus Sign              |
 | 46      | 2E      | 00101110     | .        | Period                  |
 | 47      | 2F      | 00101111     | /        | Forward Slash           |
-
----
-
-### **ASCII Symbols (continued)**
-
-| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
-|---------|---------|--------------|----------|--------------------------|
 | 58      | 3A      | 00111010     | :        | Colon                   |
 | 59      | 3B      | 00111011     | ;        | Semicolon               |
 | 60      | 3C      | 00111100     | <        | Less-Than Sign          |
@@ -193,12 +186,6 @@ Here is the complete ASCII table from **0–255** in ascending order, divided in
 | 157     | 9D      | 10011101     |          | Undefined               |
 | 158     | 9E      | 10011110     | ž        | Latin Small Letter Z    |
 | 159     | 9F      | 10011111     | Ÿ        | Latin Capital Letter Y  |
-
----
-### **Extended ASCII Symbols (continued)**
-
-| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
-|---------|---------|--------------|----------|--------------------------|
 | 160     | A0      | 10100000     |          | Non-Breaking Space      |
 | 161     | A1      | 10100001     | ¡        | Inverted Exclamation Mark |
 | 162     | A2      | 10100010     | ¢        | Cent Sign               |
@@ -279,12 +266,6 @@ Here is the complete ASCII table from **0–255** in ascending order, divided in
 | 237     | ED      | 11101101     | í        | Latin Small Letter I with Acute |
 | 238     | EE      | 11101110     | î        | Latin Small Letter I with Circumflex |
 | 239     | EF      | 11101111     | ï        | Latin Small Letter I with Diaeresis |
-
----
-### **Extended ASCII Symbols (continued)**
-
-| **Dec** | **Hex** | **Binary**   | **Char** | **Description**          |
-|---------|---------|--------------|----------|--------------------------|
 | 240     | F0      | 11110000     | ð        | Latin Small Letter Eth   |
 | 241     | F1      | 11110001     | ñ        | Latin Small Letter N with Tilde |
 | 242     | F2      | 11110010     | ò        | Latin Small Letter O with Grave |
