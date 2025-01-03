@@ -4,14 +4,14 @@ A rewritten and formatted version, designed for a coursework-oriented GitHub boo
 
 ---
 
-# CS50x 2024  
+# CS50x  
 
-## CS50x: 2024  
+## CS50x:   
 **Course Type**: Full University Course  
 
 ---
 
-# **CS50x - 2024**
+# **CS50x**
 
 ## **Course Overview**
 This document serves as a guide to fundamental concepts in programming, based on the CS50x University course. The course covers the following topics:
@@ -34,9 +34,14 @@ This document serves as a guide to fundamental concepts in programming, based on
 ---
 
 ## **Key Resources**
-- **Documentation:** [](https://)  
-- **CS50x 2024 Course on YouTube:** [CS50x 2024 Course]()  
-- **Online Course:** [CS50x 2024 on edX]()
+- **Documentation:** [](https://)
+
+## youtube video links
+- **CS50x 2025 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&si=yxVeX8c6N51aPj3i)
+
+- **CS50x 2024 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&si=Ym_8loqix5-P03fy)  
+
+- **Online Course:** [CS50x on edX](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
 
 ## --Lecture 0 --: Scratch
 
