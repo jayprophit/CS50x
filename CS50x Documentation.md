@@ -50,6 +50,8 @@ This document serves as a guide to fundamental concepts in programming, based on
 
 - **cs50x course** [cs50x opencourseware](https://cs50.harvard.edu/x)
 
+
+
 ## --Lecture 0 --: Scratch
 
 ### binary
