@@ -271,6 +271,11 @@ we can use 3 bytes to represent every musical note in some piece.  or use a 4 by
 the unsivseral language comes back to 0 & 1 which is used to solve the problem, gose back to the 1st:-
 
 input    -->    problem    -->    output
+              (Algorithm)
+
+### Algorithm
+step by step instructions of solving some problem
+
 
 
 ---
