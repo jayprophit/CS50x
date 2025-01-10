@@ -155,7 +155,7 @@ lowercase a = 01100001, which is 97
 ### ASCII
 American Standard Code for Information Interchange
 
-### ASCII Table with Binary Values for Letters, Numbers, and Symbols
+#### ASCII Table with Binary Values for Letters, Numbers, and Symbols
 
 | **Character** | **ASCII** | **Binary**      | **Character** | **ASCII** | **Binary**      |
 |---------------|-----------|-----------------|---------------|-----------|-----------------|
@@ -187,7 +187,7 @@ American Standard Code for Information Interchange
 | **z**         | 122       | 0111 1010       | **Z**         | 090       | 0101 1010       |
 
 
-### Numbers and Special Characters
+#### Numbers and Special Characters
 
 | **Character** | **ASCII** | **Binary**      | **Character** | **ASCII** | **Binary**      |
 |---------------|-----------|-----------------|---------------|-----------|-----------------|
@@ -239,9 +239,38 @@ which represents the decimal 4036991106 😂
 the face with tears of joy
 its more like a font 
 the computer is storing be it MAC OS, Windows, IOS, Andriod, is programmed to display this to represnt the decimal number.  the Pictures might look different depending on hte hardware.  this is because of companies like google, Micorosoft, Meta, and others that have there own artist reresentation.
+as with any sdevice or oftware it has updates and it can change  over time depending on the manufacture. which is really a place holderr to represent that digital number
 
+### RGB
+Red, Green, blue, represents a single dot which is allocated on a screen, which will represent some number of bits or some number of bytes to represent the color of that dot, which is also known as a Pixel.
+Pixels havebecome so common in use its on phones, T.V, Digitsal Watches or any smart device with a screen to represnt some type of image.
+the devices use 3 numbers in total, 3 bytes, which represents 24 bits per pixel
+for example.
+a software that is designed to recognise these colours as maybe these numbers:-
 
+Red     Green   Blue    =       yellow
+72      73      33      =       🟨
 
+this as well as not just text
+like medium amount of red, a medium amout of green, and a small amount of blue.
+the highest we could count is 255 plus 0 is 256, which repsents the colour yellow.
+
+so any digital photo or image is represented by a pixal and each colour has a repesentative of three sets of seperated digits to represent colours on a screen.
+now large images are made from mega bytes which is millions of bytes to represent pixels on a screen, to represent the 3 sets of digits.  with compression software theres even fewer of those bytes.
+
+### Videos
+are still images which is about 30 frames of images per second, or made 24 frames of images per second.
+
+videos are giga bytes, which is large and can take type to download
+
+### Sound
+which is analogue as digital. so each number stored in a computer can represent a specific freaqunecy, which has a direct anotation to the sound or the pitch of a note.
+this can be represent just as with ASCII, unicode or and other software developer we can say this digital number set represent this pattern be it volume, length of key duration, pictch , modulation or any other effect.
+we can use 3 bytes to represent every musical note in some piece.  or use a 4 byte to represent a different instrument
+
+the unsivseral language comes back to 0 & 1 which is used to solve the problem, gose back to the 1st:-
+
+input    -->    problem    -->    output
 
 
 ---
