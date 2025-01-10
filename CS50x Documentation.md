@@ -199,7 +199,7 @@ American Standard Code for Information Interchange
 | **!**         | 033       | 0010 0001       | **@**         | 064       | 0100 0000       |
 | **#**         | 035       | 0010 0011       | **$**         | 036       | 0010 0100       |
 | **%**         | 037       | 0010 0101       | **^**         | 094       | 0101 1110       |
-| **&**         | 038       | 0010 0110       | **\***        | 042       | 0010 1010       |
+| **&**         | 038       | 0010 0110       | *****        | 042       | 0010 1010       |
 | **(**         | 040       | 0010 1000       | **)**         | 041       | 0010 1001       |
 | **-**         | 045       | 0010 1101       | **_**         | 095       | 0101 1111       |
 | **=**         | 061       | 0011 1101       | **+**         | 043       | 0010 1011       |
@@ -208,10 +208,38 @@ American Standard Code for Information Interchange
 | **:**         | 058       | 0011 1010       | **;**         | 059       | 0011 1011       |
 | **"**         | 034       | 0010 0010       | **'**         | 039       | 0010 0111       |
 | **<**         | 060       | 0011 1100       | **>**         | 062       | 0011 1110       |
-| **/**         | 047       | 0010 1111       | **\\**        | 092       | 0101 1100       |
+| **/**         | 047       | 0010 1111       | **\**        | 092       | 0101 1100       |
 | **?**         | 063       | 0011 1111       | **space**     | 032       | 0010 0000       |
 
 **Please refer to the ASCII md file for the complete 0-255 directory**
+
+if a message is sent, here is an example of what it looks like before its converted into human readable language:-
+
+ASCII:          01001000        01001001        00100001
+HEX:            72              73              33
+Conversion:     H               I               !
+Message:        hi!
+
+as language structure is vast in a variety across multiple regions and is a stuctred form of communication, 
+
+now computers dont use 7 or 8 bits
+they might use 8 bits for english language letters
+they might use 16 bits for certain other languages
+maaybe 24 or 32 bits two bit two.
+if you have 32 bits you can represent 4 billion possible characters.
+
+a newer standard is unicode which is backwards compatible with ASCII
+which is our 16, 24, 32 bits to represent digitally to represent all human languages past, present and future and pictograms, like smiley faces, people, places, emotions, than transend human language.
+
+an example is an emoji.  unicode standadise exmaple this pattern:-
+
+1111000010011111100110010000010
+
+which represents the decimal 4036991106 😂
+the face with tears of joy
+its more like a font 
+the computer is storing be it MAC OS, Windows, IOS, Andriod, is programmed to display this to represnt the decimal number.  the Pictures might look different depending on hte hardware.  this is because of companies like google, Micorosoft, Meta, and others that have there own artist reresentation.
+
 
 
 
