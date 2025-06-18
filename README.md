@@ -22,7 +22,7 @@ _ Memory
 
 
 ## youtube video links
-- **CS50x 2025 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&si=yxVeX8c6N51aPj3i)
+- **CS50x 2025 Course on YouTube:** [CS50x 2025 Course](https://youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R&si=yxVeX8c6N51aPj3i)
 
 - **CS50x 2024 Course on YouTube:** [CS50x 2024 Course](https://youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4&si=Ym_8loqix5-P03fy)  
 
